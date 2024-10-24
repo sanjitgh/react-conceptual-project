@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Sports Car",
+    "image": "https://iili.io/2fCe8Ge.webp",
+    "description": "A high-performance luxury sports car with sleek design and advanced features.",
+    "price": 1240,
+    "category": "Sports Cars",
+    "inFeature": true
+  },
+  {
+    "id": 2,
+    "name": "Electric SUV",
+    "image": "https://iili.io/2fCeS6u.webp",
+    "description": "A fully electric SUV offering a smooth and eco-friendly ride with impressive range.",
+    "price": 3625,
+    "category": "SUVs",
+    "inFeature": true
+  },
+  {
+    "id": 3,
+    "name": "Convertible Roadster",
+    "image": "https://iili.io/2fCeeZ7.jpg",
+    "description": "A convertible roadster designed for an exhilarating driving experience with an open-top feel.",
+    "price": 2546,
+    "category": "Convertibles",
+    "inFeature": false
+  },
+  {
+    "id": 4,
+    "name": "Luxury Sedan",
+    "image": "https://iili.io/2fCeg3b.jpg",
+    "description": "A premium luxury sedan offering top-class comfort and cutting-edge technology",
+    "price": 4582,
+    "category": "Sedans",
+    "inFeature": true
+  },
+  {
+    "id": 5,
+    "name": "Compact Hatchback",
+    "image": "https://iili.io/2fCeraj.webp",
+    "description": "A stylish and fuel-efficient compact hatchback, perfect for city driving with desital service.",
+    "price": 4582,
+    "category": "Hatchbacks",
+    "inFeature": false
+  },
+  {
+    "id": 6,
+    "name": "Off-Road Truck",
+    "image": "https://iili.io/2fCe48x.webp",
+    "description": "A rugged off-road truck designed for tough terrains with a powerful engine and durable build.",
+    "price": 9563,
+    "category": "Trucks",
+    "inFeature": true
+  }
+]
